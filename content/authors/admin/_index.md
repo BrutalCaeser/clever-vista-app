@@ -36,7 +36,7 @@ profiles:
     url: gupta.yashv@northeastern.edu
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/BrutalCaeser
   - icon: brands/github
     url: https://github.com/BrutalCaeser
   - icon: brands/linkedin
