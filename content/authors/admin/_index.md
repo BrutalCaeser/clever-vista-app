@@ -202,6 +202,8 @@ awards:
     summary: |
       Recognized for contributions to scaling laws in deep learning.
 ---
-I specialize in robot learning, developing diffusion-based policies, VLM-driven controllers, and reinforcement learning agents
-for embodied tasks. I have experience working with physical robotic hardware as well as simulation platforms for large-scale
-data generation. I focus on building robust training pipelines and model architectures that translate to robotic systems.
+As a dedicated AI enthusiast grounded in mathematics and innovation, I thrive on turning complex problems into elegant, automated solutions. Inspired by Jensen Huang’s vision that “everything that moves will be automated,” I am passionate about designing intelligent systems that interact seamlessly with the physical world—from sensor-driven robotics to real-time inference at the edge.
+
+My expertise spans end-to-end model development: model research, algorithm design, and deployment in dynamic, real-world environments. I am currently researching Vision-Language-Action (VLA) models, aiming to build generalist robot policies for dexterous unseen tasks, as well as Generative Diffusion Models.
+
+Beyond the lab, I sharpen my strategic thinking through chess, fuel my curiosity with a diverse reading list, and stay energized on the tennis court. I am always eager for the next challenge and collaborative opportunity to drive impactful, forward-looking technology.
